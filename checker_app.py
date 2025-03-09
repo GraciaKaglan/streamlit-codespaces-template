@@ -38,7 +38,7 @@ def get_embedding(text):
 # Title and description
 ############################
 
-st.title("🌍 Multilingual AI Hallucination Checker")
+st.title("🌍 Cross-lingual AI hallucination checker")
 st.markdown(
     """
 This application helps detect potential AI hallucinations specifically for healthcare questions asked in Ewe. 
