@@ -1,5 +1,5 @@
 
-<img width="1000" alt="code2Capture" src="https://github.com/user-attachments/assets/0f694b6c-4d3f-4f0c-bd40-051951e4bc2f" />
+<img width="1000" alt="code2Capture" src="https://github.com/user-attachments/assets/6808fe8f-1008-445d-9474-f4e034804037" />
 
 # 🌍 Cross-lingual AI hallucination semantic checker App
 
