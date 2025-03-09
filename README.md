@@ -1,4 +1,4 @@
-# 🎈 Multilingual AI Hallucination Checker - Streamlit app
+# 🎈 Multilingual AI Hallucination Checker
 
 ## How to Launch the Application:
 
