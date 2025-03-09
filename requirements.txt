@@ -3,3 +3,4 @@ openai
 googletrans
 sklearn 
 numpy
+yaml

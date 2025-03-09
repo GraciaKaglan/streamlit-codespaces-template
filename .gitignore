@@ -1,3 +1,5 @@
 .venv
+app.py
 secrets.toml
+secrets.yaml
 __pycache__/
