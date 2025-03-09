@@ -1,7 +1,7 @@
 
 <img width="1000" alt="code2Capture" src="https://github.com/user-attachments/assets/0f694b6c-4d3f-4f0c-bd40-051951e4bc2f" />
 
-# 🎈 Multilingual AI Hallucination Checker
+# 🌍 Multilingual AI Hallucination Checker
 
 ## How to Launch the Application:
 
