@@ -1,4 +1,5 @@
-<img width="430" alt="code2Capture" src="https://github.com/user-attachments/assets/2e086ad2-4cfb-4ac9-861e-03bab914ac76" />
+
+<img width="1140" alt="code2Capture" src="https://github.com/user-attachments/assets/f30df2e4-2852-4bb7-92a7-da92807dd90e" />
 
 # 🎈 Multilingual AI Hallucination Checker
 
